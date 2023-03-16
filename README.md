@@ -4,6 +4,10 @@
 #### 🌱 I’m currently learning about Git, Maven, MySql, MongoDB and APIs with Spring Boot. I am also studying an MBA in Software Architecture and Solutions
 #### 😄 Pronouns: he/his.
 
+  ![Breno Mascarenhas GitHub stats](https://github-readme-stats.vercel.app/api?username=brenoliveira8&show_icons=true&theme=radical)
+  <br>
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brenoliveira8&layout=compact&show_icons=true&theme=radical&hide_progress=true)
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Breno-Java" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
   <img align="center" alt="Breno-Spring" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"/>
