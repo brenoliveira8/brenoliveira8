@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-#### 🔭 I’m currently working on an API that feeds on IMDb ranking data to generate an HTML page with this information.
+#### 🔭 I’m currently working on an REST API using Spring Boot 3, MySql and Postman to test the back-end behavior.
 #### 🌱 I’m currently learning about Git, Maven, MySql, MongoDB and APIs with Spring Boot. I am also studying an MBA in Software Architecture and Solutions
 #### 😄 Pronouns: he/his.
 
